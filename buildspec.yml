@@ -37,8 +37,3 @@ artifacts:
     - 'ROOT/WEB-INF/lib/spring-jcl-5.0.7.RELEASE.jar'
     - 'ROOT/WEB-INF/lib/spring-web-5.0.7.RELEASE.jar'
     - 'ROOT/WEB-INF/lib/spring-webmvc-5.0.7.RELEASE.jar'
-    - 'ROOT/WEB-INF/views/index.jsp'
-    - 'ROOT/resources/gradients.css'
-    - 'ROOT/resources/set-background.js'
-    - 'ROOT/resources/styles.css'
-    - 'ROOT/resources/tweet.svg'
