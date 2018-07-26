@@ -148,8 +148,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-607">
-              <caret line="27" column="37" lean-forward="false" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="37" />
+            <state relative-caret-position="177">
+              <caret line="38" column="21" lean-forward="false" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -711,12 +711,12 @@
       <workItem from="1531943425248" duration="37722000" />
       <workItem from="1532058119861" duration="27526000" />
       <workItem from="1532447731345" duration="2127000" />
-      <workItem from="1532454036891" duration="25144000" />
+      <workItem from="1532454036891" duration="26025000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="242134000" />
+    <option name="totallyTimeSpent" value="243015000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="798" extended-state="0" />
@@ -1302,8 +1302,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-607">
-          <caret line="27" column="37" lean-forward="false" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="37" />
+        <state relative-caret-position="177">
+          <caret line="38" column="21" lean-forward="false" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
           <folding />
         </state>
       </provider>
